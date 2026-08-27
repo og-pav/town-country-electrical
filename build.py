@@ -24,7 +24,7 @@ CDN = "https://img1.wsimg.com/isteam/ip/52ef02e5-fc83-4602-a76e-29188a0fe99f/"
 def IMG(name, w=1400):
     return CDN + urllib.parse.quote(name) + f"/:/rs=w:{w}"
 
-LOGO = IMG("town & country(3).png", 400)
+LOGO = IMG("NOOK WL.webp", 400)
 PHOTOS = {
     "hero": IMG("MULLUM.jpg", 1920),
     "owner": IMG("blob-07fcf8c.png", 900),
