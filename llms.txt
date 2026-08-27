@@ -1,0 +1,26 @@
+# Town & Country Electrical Co.
+
+> Family-run, licensed and insured residential electrician based in Mullumbimby NSW 2482, servicing the entire Northern Rivers: Mullumbimby, Byron Bay, Brunswick Heads, Ocean Shores, Bangalow, Pottsville, Lennox Head, Ballina, Kingscliff, Lismore. Owner-operated by licensed electrician Jordan Giuffre. Upfront pricing, workmanship guaranteed, 24/7 emergency call-outs. Phone 0405 305 671. Email jordan@towncountryelectrical.com.au.
+
+## Services
+- [Residential Electrical](https://og-pav.github.io/town-country-electrical/services/residential-electrical.html): new builds & renovation wiring
+- [Electrical Repairs & Fault Finding](https://og-pav.github.io/town-country-electrical/services/electrical-repairs.html)
+- [Lighting & Power](https://og-pav.github.io/town-country-electrical/services/lighting-and-power.html)
+- [EV Charger Installation](https://og-pav.github.io/town-country-electrical/services/ev-charger-installation.html)
+- [Hot Water Repairs](https://og-pav.github.io/town-country-electrical/services/hot-water-repairs.html)
+- [Switchboard Upgrades](https://og-pav.github.io/town-country-electrical/services/switchboard-upgrades.html)
+- [Smoke Alarm Installation](https://og-pav.github.io/town-country-electrical/services/smoke-alarms.html)
+- [Appliance Installation](https://og-pav.github.io/town-country-electrical/services/appliance-installation.html)
+- [24/7 Emergency Electrician](https://og-pav.github.io/town-country-electrical/services/emergency-electrician.html)
+
+## Key pages
+- [Contact / Free Quote](https://og-pav.github.io/town-country-electrical/contact.html)
+- [About — Jordan Giuffre](https://og-pav.github.io/town-country-electrical/about.html)
+- [Case Studies](https://og-pav.github.io/town-country-electrical/case-studies.html)
+- [Blog](https://og-pav.github.io/town-country-electrical/blog.html)
+
+## Facts
+- Rated 5.0 from verified customer reviews
+- Licensed & insured; Certificates of Compliance issued for notifiable work
+- Response to all enquiries within one business day
+- Payment: bank transfer or card
