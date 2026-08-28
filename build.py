@@ -273,7 +273,7 @@ def head(title, desc, path, extra_schema="", og_type="website"):
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preconnect" href="https://img1.wsimg.com">
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@700;800;900&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/assets/css/site.css">
+<link rel="stylesheet" href="/assets/css/site.css?v=1787877868">
 <script type="application/ld+json">{org}</script>
 {extra_schema}
 <script>
@@ -352,7 +352,7 @@ def footer():
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" defer></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js" defer></script>
-<script src="/assets/js/site.js" defer></script>
+<script src="/assets/js/site.js?v=1787877868" defer></script>
 </body></html>"""
 
 def gal_html(keys):
