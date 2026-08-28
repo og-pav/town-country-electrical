@@ -236,7 +236,7 @@ html.no-motion .media.mask{clip-path:none}
 .site-footer a:hover{color:#F0C9A0}
 .site-footer ul{list-style:none}
 .site-footer li{margin-bottom:.5rem}
-.foot-logo img{height:56px;margin-bottom:1rem}
+.foot-logo img{height:56px;margin-bottom:1rem;background:#FAF7F3;padding:.55rem .8rem;border-radius:12px;box-sizing:content-box}
 .fine{border-top:1px solid rgba(255,255,255,.1);padding-top:1.6rem;display:flex;flex-wrap:wrap;gap:1rem;justify-content:space-between;font-size:.82rem;color:rgba(255,255,255,.45)}
 .socials{display:flex;gap:.8rem;margin-top:1rem}
 .socials a{width:38px;height:38px;border:1px solid rgba(255,255,255,.2);border-radius:50%;display:grid;place-items:center}
